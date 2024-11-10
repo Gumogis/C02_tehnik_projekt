@@ -1,0 +1,4 @@
+Ke vykreslování úsečky jsem využil triviální algoritmus.
+Jednoduchý algoritmus který je použitelný i pro křivky
+Nevýhoda je kreslení svislé čáry, musí se řešit speciální případ
+Musí se řešit každý kvadrant
